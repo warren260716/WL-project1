@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"3918c72bc85c4eee","x":-220,"y":-6080,"width":250,"height":60,"type":"text","text":"① 製作兩個容器，一個裝身高cm，一個裝體重kg"},
+		{"id":"79f3cb39a43639ae","x":-220,"y":-5980,"width":250,"height":60,"type":"text","text":"② 寫一個身高及體重不可以≤0的判斷式"},
+		{"id":"0d39e778b9e36a46","x":-220,"y":-5880,"width":250,"height":60,"type":"text","text":"③ 寫BMI公式，BMI = 體重/身高m²"},
+		{"id":"0f72411a22eed573","x":-220,"y":-5780,"width":250,"height":140,"type":"text","text":"④ 開始寫BMI判斷式，要從最小的開始寫，如果從最大的開始寫，數字小的第一個判斷式就OK了，就不會往後執行"}
+	],
+	"edges":[
+		{"id":"c5bca680aa8514b9","fromNode":"3918c72bc85c4eee","fromSide":"bottom","toNode":"79f3cb39a43639ae","toSide":"top"},
+		{"id":"39c206fbca915edf","fromNode":"79f3cb39a43639ae","fromSide":"bottom","toNode":"0d39e778b9e36a46","toSide":"top"},
+		{"id":"418ea2a172d94fb3","fromNode":"0d39e778b9e36a46","fromSide":"bottom","toNode":"0f72411a22eed573","toSide":"top"}
+	]
+}
