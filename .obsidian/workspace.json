@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "826d185581ba55d7",
+        "id": "aa29a36836967d39",
         "type": "tabs",
         "children": [
           {
-            "id": "88eb530d12bdf550",
+            "id": "2cfbf863c2cf1c5f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Django 2026-08-26.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Django 案件開發2026-09-07.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Django 2026-08-26"
+              "icon": "excalidraw-icon",
+              "title": "Django 案件開發2026-09-07.excalidraw"
             }
           }
         ]
@@ -190,49 +188,51 @@
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
       "bases:建立新的 base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:新建繪圖檔案": false
     }
   },
-  "active": "88eb530d12bdf550",
+  "active": "2cfbf863c2cf1c5f",
   "lastOpenFiles": [
-    "2026-08-26.md",
-    "Django 2026-08-26.md",
-    "BMI.canvas",
-    "Practice（Python) 2026-08-25.md",
+    "Excalidraw/Django 案件開發2026-09-07.excalidraw.md",
+    "Excalidraw/網頁設計 2026-09-08.excalidraw.md",
+    "Pasted Image 20260908160305_598.png",
+    "Pasted Image 20260908135822_271.png",
+    "Pasted Image 20260908135717_303.png",
+    "Pasted Image 20260908133744_196.png",
+    "Pasted Image 20260908133412_326.png",
+    "Pasted Image 20260908113358_795.png",
+    "Pasted Image 20260908110811_286.png",
+    "Pasted Image 20260908105642_629.png",
+    "Pasted Image 20260908094208_670.png",
+    "Pasted Image 20260908083502_535.png",
+    "Excalidraw/MySQL 2026-09-07.excalidraw.md",
+    "Excalidraw/MySQL 2026-08-31.excalidraw.md",
+    "Excalidraw/Drawing 2026-08-27 10.07.00.excalidraw.md",
+    "Excalidraw/Django 2026-08-27.excalidraw.md",
+    "Excalidraw/Django 2026-08-28 08.28.04.excalidraw.md",
+    "Excalidraw/Python網路爬蟲 2026-09-02.excalidraw.md",
+    "Excalidraw/Python網路爬蟲 2026-09-01 10.57.45.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-06 00.29.41.excalidraw.md",
+    "Excalidraw/Linux 2026-09-03.excalidraw.md",
+    "Python程式 260731 - 串列.md",
+    "Excalidraw/網路爬蟲 2026-09-01.excalidraw.md",
+    "Excalidraw/Drawing 2026-08-26 10.30.33.excalidraw.md",
+    "Drawing 2026-08-27 10.10.50.excalidraw.md",
+    "Django homework 260819.canvas",
+    "Excalidraw/Drawing 2026-08-26 10.21.06.excalidraw.md",
+    "Excalidraw/Drawing 2026-08-26 10.19.24.excalidraw.md",
+    "Django 2026-08-27.md",
+    "Excalidraw",
     "網頁設計 2026-08-25.md",
+    "BMI.canvas",
+    "2026-08-26.md",
+    "Practice（Python) 2026-08-25.md",
     "未命名.md",
-    "Pasted image 20260825141644.png",
-    "Pasted image 20260825141628.png",
-    "Pasted image 20260825141607.png",
-    "Pasted image 20260825141546.png",
-    "Pasted image 20260825141537.png",
-    "Pasted image 20260825141527.png",
-    "Pasted image 20260825114031.png",
-    "Pasted image 20260825101055.png",
     "MySQL 2026-08-24.md",
-    "Pasted image 20260824152708.png",
-    "Pasted image 20260824152644.png",
     "Python程式 2026-08-21.md",
     "Python 程式 2026-08-20.md",
-    "Obsidian使用.md",
-    "Django 2026-08-19.md",
-    "網頁設計 2026-08-18.md",
-    "MySQL 2026-08-17.md",
-    "Django 2026-08-06.md",
-    "網頁設計 2026-08-11 （筆記的內容要記熟，包含今天vs裏的範例）.md",
-    "Django 2026-08-07.md",
-    "Django 2026-08-07 課程.md",
-    "Django 2026-08-13.md",
-    "Python程式 2026-08-14.md",
-    "Python程式 2026-08-12.md",
-    "Python程式 2026-08-04.md",
-    "Python程式 2026-08-05.md",
-    "Python程式 260731 - 串列.md",
     "未命名 1.base",
-    "未命名.base",
-    "2026-07-31.md",
-    "歡迎.md",
-    "260730.md",
-    "建立鏈接.md"
+    "未命名.base"
   ]
 }
