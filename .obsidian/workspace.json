@@ -16,12 +16,24 @@
                 "file": "網路爬蟲 2026-10-05.canvas",
                 "viewState": {
                   "x": 0,
-                  "y": 0,
+                  "y": 465,
                   "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "網路爬蟲 2026-10-05"
+            }
+          },
+          {
+            "id": "85b3a550dde57e1f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-10-05 08.29.04.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-10-05 08.29.04.excalidraw"
             }
           }
         ]
@@ -211,8 +223,13 @@
   },
   "active": "be7c13686cbd8217",
   "lastOpenFiles": [
-    "網路爬蟲 2026-09-30.canvas",
+    "Excalidraw/Drawing 2026-10-05 08.29.04.excalidraw.md",
     "網路爬蟲 2026-10-05.canvas",
+    "網路爬蟲 2026-09-30.canvas",
+    "Excalidraw/Drawing 2026-10-05 09.27.03.excalidraw.md",
+    "Pasted image 20261005090829.png",
+    "Pasted image 20261005090757.png",
+    "Pasted image 20261005090400.png",
     "網路爬蟲 2026-09-16.canvas",
     "例外類型.png",
     "Python 程式 2026-08-20.md",
@@ -238,9 +255,6 @@
     "Pasted image 20260910161848.png",
     "Excalidraw/Drawing 2026-09-10 15.59.17.excalidraw.md",
     "Excalidraw/Linux 2026-09-10.excalidraw.md",
-    "Pasted image 20260910155728.png",
-    "Pasted image 20260910155627.png",
-    "Pasted image 20260910155532.png",
     "Excalidraw/Drawing 2026-09-10 08.37.48.excalidraw.md",
     "Excalidraw/Python網路爬蟲 2026-09-09.excalidraw.md",
     "Excalidraw/Django 案件開發2026-09-07.excalidraw.md",
@@ -253,11 +267,8 @@
     "Excalidraw/Python網路爬蟲 2026-09-01 10.57.45.excalidraw.md",
     "Excalidraw/Drawing 2026-09-06 00.29.41.excalidraw.md",
     "Excalidraw/Linux 2026-09-03.excalidraw.md",
-    "Python程式 260731 - 串列.md",
-    "Excalidraw/Drawing 2026-08-26 10.30.33.excalidraw.md",
     "Django homework 260819.canvas",
     "Excalidraw",
-    "BMI.canvas",
     "未命名 1.base",
     "未命名.base"
   ]
