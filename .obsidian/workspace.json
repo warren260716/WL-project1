@@ -11,10 +11,17 @@
             "id": "be7c13686cbd8217",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "關聯圖檢視"
+              "type": "canvas",
+              "state": {
+                "file": "網路爬蟲 2026-10-05.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "網路爬蟲 2026-10-05"
             }
           }
         ]
@@ -205,12 +212,16 @@
   "active": "be7c13686cbd8217",
   "lastOpenFiles": [
     "網路爬蟲 2026-09-30.canvas",
+    "網路爬蟲 2026-10-05.canvas",
+    "網路爬蟲 2026-09-16.canvas",
+    "例外類型.png",
+    "Python 程式 2026-08-20.md",
+    "Python程式 2026-08-21.md",
     "網路爬蟲 2026-10-01.canvas",
     "Excalidraw/網路爬蟲 2026-10-01.excalidraw.md",
     "Excalidraw/Drawing 2026-10-01 08.47.29.excalidraw.md",
     "Pasted image 20260930114343.png",
     "網頁設計 2026-09-29.canvas",
-    "網路爬蟲 2026-09-16.canvas",
     "Linux 2026-09-17.canvas",
     "Pasted image 20260917151114.png",
     "Linux 2026-09-10.canvas",
@@ -230,7 +241,6 @@
     "Pasted image 20260910155728.png",
     "Pasted image 20260910155627.png",
     "Pasted image 20260910155532.png",
-    "Pasted image 20260910155445.png",
     "Excalidraw/Drawing 2026-09-10 08.37.48.excalidraw.md",
     "Excalidraw/Python網路爬蟲 2026-09-09.excalidraw.md",
     "Excalidraw/Django 案件開發2026-09-07.excalidraw.md",
@@ -245,9 +255,7 @@
     "Excalidraw/Linux 2026-09-03.excalidraw.md",
     "Python程式 260731 - 串列.md",
     "Excalidraw/Drawing 2026-08-26 10.30.33.excalidraw.md",
-    "Drawing 2026-08-27 10.10.50.excalidraw.md",
     "Django homework 260819.canvas",
-    "Excalidraw/Drawing 2026-08-26 10.21.06.excalidraw.md",
     "Excalidraw",
     "BMI.canvas",
     "未命名 1.base",
